@@ -5,3 +5,4 @@ They could be **pseudocode**.
 2. Prime. (All algorithm template)
 3. Prime Factor Decomposition.
 4. Segment Tree.
+5. 2D Geometric
